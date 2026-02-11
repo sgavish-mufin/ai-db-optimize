@@ -29,7 +29,7 @@ ai-db-optimize/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-db-optimize.git
+   git clone https://github.com/sgavish-mufin/ai-db-optimize.git
    cd ai-db-optimize
    ```
 
