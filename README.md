@@ -70,3 +70,6 @@ python ai_db_optimize --db postgres --query "SELECT * FROM orders WHERE status =
 - **Typer**: CLI framework.
 - **OpenAI/OpenRouter**: AI analysis engine.
 - **Dotenv**: Environment variable management.
+
+## Demo (Preview)
+ - **Loom**: [Demo](https://www.loom.com/share/4fbb59f8602a4dd7b91ab618560ea77e)
